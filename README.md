@@ -1,4 +1,4 @@
-### Hi there, I'm Geoffrey - aka [GeoffreyKarnbach] 👋
+# Hi there, I'm Geoffrey - aka [GeoffreyKarnbach] 👋
 
 
 [![ProjectRecruiter](https://user-images.githubusercontent.com/36735387/125613699-5628f572-9490-4257-be67-9f0dbc954baa.png)](http://project-recruiter.epizy.com/)
@@ -13,6 +13,7 @@
 - C# (Intermediate)
 - C++ (Beginner)
 - HTML/CSS/PHP (Intermediate)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
 ## List of my most notable projects:
 - Project Recruiter (A website to find other programmers to collaborate with)
