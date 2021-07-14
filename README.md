@@ -12,18 +12,18 @@
 ## Languages and Tools:
 ### Advanced
 
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/36735387/125643848-fbaf1498-4a24-43d0-af37-cea4b66671e8.png" />
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/36735387/125675014-d03f16b8-9ee0-4c26-b941-8f5d8d337890.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Discord" width="26px" src="https://user-images.githubusercontent.com/36735387/125644996-812fba71-ae04-460a-b090-411289e8fb04.png" />
+<img align="left" alt="Discord" width="26px" src="https://user-images.githubusercontent.com/36735387/125675277-94e36d3c-0f13-471e-a72d-e64ac4b87cce.png" />
 
 <br />
 
 ### Intermediate
 
-<img align="left" alt="CSharp" width="26px" src="https://user-images.githubusercontent.com/36735387/125644464-3e6ac00e-4da9-466c-9e7d-9255d4f19282.png" />
+<img align="left" alt="CSharp" width="26px" src="https://user-images.githubusercontent.com/36735387/125675502-6852f0ed-85f0-4325-9da4-2908936d7199.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/36735387/125644742-fae4777e-564f-481e-8922-27cfb613d12b.png" />
+<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/36735387/125675622-ad9a0857-9def-44d7-a5c8-935b007d8444.png" />
 
 <br />
 
