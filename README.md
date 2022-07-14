@@ -5,7 +5,7 @@
 [![Discord](https://user-images.githubusercontent.com/36735387/125645869-5b150777-a784-451c-b203-246b66e669d6.png)](https://discord.com/users/450259740153479189)
 
 ## About me 
-- I program for 8 years already.
+- I program for 6 years already.
 - I am 18 years old.
 - I search for other people to work together on projects.
 
