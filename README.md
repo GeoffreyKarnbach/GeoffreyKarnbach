@@ -5,7 +5,7 @@
 
 ## About me
 
-- I program for 6 years already.
+- I program for 7 years already.
 - I am 18 years old.
 - I search for other people to work together on projects.
 
@@ -37,4 +37,4 @@
 
 ## Wakatime Statistics
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@20dca231-bba9-408c-b503-1205b0745c46/71b9da81-ff7a-4a37-ac5e-e3dedcdf5833.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@20dca231-bba9-408c-b503-1205b0745c46/277597aa-71d2-4402-ae84-cd47b1a460aa.png" /></a>
