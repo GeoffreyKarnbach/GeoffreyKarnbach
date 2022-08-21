@@ -36,4 +36,5 @@
 - Different Unity 3D Games
 
 ## Wakatime Statistics
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@20dca231-bba9-408c-b503-1205b0745c46/da1634c6-24e3-4915-96f0-0bf9fe3e737b.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@20dca231-bba9-408c-b503-1205b0745c46/71b9da81-ff7a-4a37-ac5e-e3dedcdf5833.png" /></a>
