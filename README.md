@@ -37,4 +37,4 @@
 
 ## Wakatime Statistics
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@20dca231-bba9-408c-b503-1205b0745c46/277597aa-71d2-4402-ae84-cd47b1a460aa.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@20dca231-bba9-408c-b503-1205b0745c46/33310001-02e5-45f8-ab68-2464a589289c.png" /></a>
