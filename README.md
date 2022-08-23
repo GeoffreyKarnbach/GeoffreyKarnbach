@@ -34,6 +34,7 @@
 - Diablo 2/4 Discord Bot (Reputation system to guarantee fair trades with user, moderator, admin and owner commands)
 - Fake News Detector (With Python, based on analysis and tokenizer)
 - Different Unity 3D Games
+- Self Written Python Datastructure collection
 
 ## Wakatime Statistics
 
