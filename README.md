@@ -5,8 +5,8 @@
 
 ## About me
 
-- I program for 7 years already.
-- I am 18 years old.
+- I program for 8 years already.
+- I am 19 years old.
 - I search for other people to work together on projects.
 
 ## Languages and Tools:
