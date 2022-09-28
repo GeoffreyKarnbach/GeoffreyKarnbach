@@ -39,3 +39,7 @@
 ## Wakatime Statistics
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DerGoyote/3d3b99f1-0e73-4745-bfc4-b3e68e47ef50.png" /></a>
+
+<br>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DerGoyote/47cd53e6-7499-4a15-b6ce-3b1a0d87a079.png" /></a>
