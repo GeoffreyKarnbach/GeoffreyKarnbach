@@ -47,6 +47,7 @@ HTML / CSS / PHP Laravel
 - [Diablo 2/4 Discord Bot (Reputation system to guarantee fair trades with user, moderator, admin and owner commands)](https://github.com/GeoffreyKarnbach/Diablo-Bot)
 - [Fake News Detector (With Python, based on analysis and tokenizer)](https://github.com/GeoffreyKarnbach/Fake-News-Detector-AI)
 - [Self Written Python Datastructure collection](https://github.com/GeoffreyKarnbach/Python-Datastructures)
+- [Automatic Task Scheduler](https://github.com/GeoffreyKarnbach/TaskAutomation)
 - Different Unity 3D Games
 
 <!---
