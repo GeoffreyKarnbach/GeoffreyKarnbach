@@ -49,8 +49,10 @@ HTML / CSS / PHP Laravel
 - [Self Written Python Datastructure collection](https://github.com/GeoffreyKarnbach/Python-Datastructures)
 - Different Unity 3D Games
 
+<!---
 ## <u> Wakatime Statistics</u>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DerGoyote/3d3b99f1-0e73-4745-bfc4-b3e68e47ef50.png" /></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DerGoyote/7c472f33-1b20-41a7-870b-06a5e250c96d.png" /></a>
+-->
