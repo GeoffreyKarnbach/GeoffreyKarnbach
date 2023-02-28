@@ -7,7 +7,7 @@
 
 - I program for 8 years already.
 - I am 19 years old.
-- Studying Software Engineering Bachelor at TU Wien (Vienna - Austria) (3rd Semester).
+- Studying Software Engineering Bachelor at TU Wien (Vienna - Austria) (4th Semester).
 - I search for other people to work together on projects.
 - I code mainly in Python for side projects, in Java and C for university courses.
 - I enjoy working on Data Science projects or small Software written ideas with Python, as well as Task Automation.
