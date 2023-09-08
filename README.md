@@ -5,12 +5,12 @@
 
 ## <u>About me</u>
 
-- I program for 8 years already.
-- I am 19 years old.
-- Studying Software Engineering Bachelor at TU Wien (Vienna - Austria) (4th Semester).
+- I program for 9 years already.
+- I am 20 years old.
+- Studying Software Engineering Bachelor at TU Wien (Vienna - Austria) (5th Semester).
 - I search for other people to work together on projects.
-- I code mainly in Python for side projects, in Java and C for university courses.
-- I enjoy working on Data Science projects or small Software written ideas with Python, as well as Task Automation.
+- I code mainly in Python, Java and Typescript (Angular Framework). For university classes, I have used Haskell and C.
+- I enjoy working on Data Science projects and Fullstack Software , as well as Task Automation.
 
 ## <u>Languages and Tools:</u>
 
