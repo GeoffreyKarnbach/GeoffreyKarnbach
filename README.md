@@ -11,7 +11,7 @@
 
 ## <u>Programming languages and frameworks:</u>
 
-- Python (Flask, Numpy, Matplotlib, Pandas, Discord.py)
+- Python (Flask, Numpy, Matplotlib, Pandas, Scikit-Learn)
 - Java (SpringBoot)
 - JavaScript - Typescript (Angular)
 - C
