@@ -3,13 +3,14 @@
 <a href="https://geoffreykarnbach.github.io/"> Check out my webpage</a>
 ## <u>About me</u>
 
-- I program for 10 years already.
-- I am 21 years old.
-- Working as a Software Engineer at the DAMAP Project.
-- Studying Software Engineering Bachelor at TU Wien (Vienna - Austria) (7th Semester).
-- I code mainly in Python, Java and Typescript (Angular Framework), but I am quite comfortable with C as well.
-- I enjoy working on FullStack Software Engineering as well as Data Science and Machine Learning projects.
-
+- I’ve been programming for about 10 years.
+- I’m 21 years old and currently working as a Software Engineer at TU Wien on the DAMAP project.
+- Studying Software & Information Engineering at TU Wien (7th Semester).
+- My main coding languages are Python, Java (Spring Boot, Quarkus), and TypeScript (Angular), but I also have experience with C.
+- I enjoy building full-stack applications, working on data science and machine learning projects, and exploring challenges in the domain of DevOps and distributed systems.
+- Previously, I contributed to projects like OSSDIP, where I worked on secure data automation, and LÄNDR, a platform for party location rentals.
+- I'm passionate about tackling innovative challenges and enjoy prototyping quick solutions to bring ideas to life.
+  
 ## <u>Programming languages and frameworks:</u>
 
 - Python (Flask, Numpy, Matplotlib, Pandas, Scikit-Learn)
@@ -49,3 +50,4 @@
 
 ## <u>List of open source projects I contribute to:</u>
 - [DAMAP: A tool for machine actionable DMPs](https://damap.org/)
+- [OSSDIP:Open Source Secure Data Infrastructure and Processes Platform that Supports Data Visiting](https://www.ifs.tuwien.ac.at/infrastructures/ossdip/)
