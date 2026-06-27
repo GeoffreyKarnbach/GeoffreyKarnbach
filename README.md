@@ -98,7 +98,7 @@ Technologies: **Java • Spring Boot • RabbitMQ • Kubernetes • Docker**
 
 ### 🌐 DataVision
 
-[![GitHub](https://img.shields.io/badge/Open_on-GitHub-181717?style=flat-square&logo=github)](...)
+[See the public documentation!](https://datavision-ai.github.io/Documentation/#/)
 
 Digital Twin platform transforming heterogeneous IoT sensor streams into a semantic knowledge graph.
 
