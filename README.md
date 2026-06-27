@@ -1,53 +1,187 @@
-# <strong><em>Hi there, I'm Geoffrey - aka [GeoffreyKarnbach] 👋</strong></em>
+# Hi there, I'm Geoffrey Karnbach 👋
 
-<a href="https://geoffreykarnbach.github.io/"> Check out my webpage</a>
-## <u>About me</u>
+### Software Engineer • M.Sc. Software Engineering Student @ TU Wien • Distributed Systems • Backend Engineering
 
-- I’ve been programming for about 10 years.
-- I’m 21 years old and currently working as a Software Engineer at TU Wien on the DAMAP project.
-- Studying Software & Information Engineering at TU Wien (7th Semester).
-- My main coding languages are Python, Java (Spring Boot, Quarkus), and TypeScript (Angular), but I also have experience with C.
-- I enjoy building full-stack applications, working on data science and machine learning projects, and exploring challenges in the domain of DevOps and distributed systems.
-- Previously, I contributed to projects like OSSDIP, where I worked on secure data automation, and LÄNDR, a platform for party location rentals.
-- I'm passionate about tackling innovative challenges and enjoy prototyping quick solutions to bring ideas to life.
-  
-## <u>Programming languages and frameworks:</u>
+I'm a software engineer pursuing a **Master's degree in Software Engineering** at **TU Wien**, specializing in **Distributed Systems** (GPA **1.0** currently).
 
-- Python (Flask, Numpy, Matplotlib, Pandas, Scikit-Learn)
-- Java (SpringBoot, Quarkus)
-- JavaScript - Typescript (Angular)
-- C
-- C# (Unity)
-- Swift (SwiftUI)
-- Bash scripting
-- SQL (PostgreSQL)
+Over the past two years, I worked as a **Software Engineer** and previously as a **Student Research Assistant** at TU Wien, contributing to the open-source **DAMAP** Tool and **OSSDIP** research projects. My work focused on backend engineering, distributed systems, cloud-native applications, and software architecture.
 
-## <u>Tools:</u>
+I'm currently writing my master's thesis on **Graph Neural Networks for automated Root Cause Analysis in Microservice Architectures**, combining OpenTelemetry, knowledge graphs, and machine learning.
 
-- PostgreSQL / H2
-- Linux / Windows / MacOs
-- Git
-- UML
-- Ansible / OpenStack
+I enjoy building scalable backend systems, distributed applications, graph-based software, and developer tooling that solve challenging real-world engineering problems.
 
-## <u>Interests:</u>
-- Fullstack web engineering and Mobile App Engineering
-- Machine Learning / AI
-- Data Science
-- Cybersecurity
-- PaaS / DevOps
+---
 
-## <u>List of some of my projects:</u>
+## 🚀 Selected Projects
 
-- [Titanic Survival Prediction: Will John Doe survive the titanic? - Probably not!](https://github.com/GeoffreyKarnbach/Titanic-Survival-Analysis)
-- [Ländr: Your go-to platform for easily finding and booking the best party locations!](https://github.com/GeoffreyKarnbach/Laendr)
-- [RecipePlaner: Your all-in-one digital cookbook and smart grocery planner for seamless meal preparation and shopping!](https://github.com/GeoffreyKarnbach/RecipePlaner)
-- [Transform your workouts with the Gym Companion App – track, analyze, and optimize your progress seamlessly!](https://github.com/GeoffreyKarnbach/GymCompanionApp)
-- [CryptoPay, a simple initiative to allow paying with cryptocurrencies in a physical location, as simply as with a credit card.](https://github.com/GeoffreyKarnbach/CryptoPay)
-- [JeffOS, an interactive and educational virtual CPU and OS environment!](https://github.com/GeoffreyKarnbach/JeffOS)
-- [Task Automation Tool: Effortlessly schedule and manage your Python scripts without the hassle of cron jobs!](https://github.com/GeoffreyKarnbach/TaskAutomation)
-- [Collection of self-implemented datastructure with python, including: Queues, Stacks, BST, Hashmap, LL, Heap...](https://github.com/GeoffreyKarnbach/Python-Datastructures)
+### 🎓 Master's Thesis _(Work in Progress)_
 
-## <u>List of open source projects I contribute to:</u>
-- [DAMAP: A tool for machine actionable DMPs](https://damap.org/)
-- [OSSDIP:Open Source Secure Data Infrastructure and Processes Platform that Supports Data Visiting](https://www.ifs.tuwien.ac.at/infrastructures/ossdip/)
+Developing an automated **Root Cause Analysis (RCA)** framework for distributed microservice architectures using **OpenTelemetry-based observability data** and **Graph Neural Networks**.
+
+The project includes a containerized microservice testbed, controlled fault injection, synthetic traffic generation, telemetry collection, graph snapshot construction, dataset generation, and initial **PyTorch Geometric** experiments for node-level root-cause localization.
+
+Current focus areas include:
+
+- Graph-based RCA for microservice architectures
+- Fault injection and labeled dataset generation
+- OpenTelemetry, Prometheus, and Jaeger observability pipelines
+- Construction of attributed service dependency graphs
+- Graph Neural Networks for binary node-level RCA
+- Evaluation of RCA models using Top-1, Top-3, and ranking-based metrics
+
+Technologies: **Python, Docker, OpenTelemetry, Prometheus, Jaeger, PyTorch Geometric**
+
+---
+
+### 🎬 CineVerse
+
+[![GitHub](https://img.shields.io/badge/Open_on-GitHub-181717?style=flat-square&logo=github)](https://github.com/GeoffreyKarnbach/CineVerse)
+
+A graph-native cinema analytics platform built around a **Neo4j knowledge graph** containing more than **47,000 movies**, **286,000 people**, and over **800,000 relationships** aggregated from IMDb, TMDB and Wikidata.
+
+Key highlights:
+
+- Interactive IDE-inspired frontend
+- Visual graph exploration
+- Integrated Cypher terminal
+- Recommendation engine
+- Graph algorithms using Neo4j GDS
+- Automated ETL pipeline
+- Docker-based deployment
+
+Technologies: **Angular • Flask • Neo4j • D3.js • APOC • Graph Data Science**
+
+---
+
+### 🏨 TaskInn
+
+[![GitHub](https://img.shields.io/badge/Open_on-GitHub-181717?style=flat-square&logo=github)](...)
+
+Production-scale hotel management platform developed by a six-person engineering team.
+
+As **Technical Architect**, I designed the overall system architecture, coordinated technical decisions, established the CI/CD pipeline, and implemented major backend components.
+
+Highlights:
+
+- Kubernetes deployment
+- GitLab CI/CD
+- Stripe integration
+- WebSocket event system
+- 600+ automated tests
+- Spring Boot backend
+- Angular frontend
+
+Technologies: **Java • Spring Boot • Angular • Kubernetes • Docker**
+
+---
+
+### 🚦 HALT
+
+[![GitHub](https://img.shields.io/badge/Open_on-GitHub-181717?style=flat-square&logo=github)](...)
+
+Distributed Vehicle-to-Infrastructure simulation built around an event-driven microservice architecture.
+
+The platform orchestrates over **20 containerized services** communicating through RabbitMQ and REST APIs, simulating autonomous vehicles, roadside units and emergency scenarios.
+
+Highlights:
+
+- Kubernetes orchestration
+- RabbitMQ Pub/Sub
+- NGINX API Gateway
+- Skaffold deployment
+- Distributed event processing
+- Docker-based infrastructure
+
+Technologies: **Java • Spring Boot • RabbitMQ • Kubernetes • Docker**
+
+---
+
+### 🌐 DataVision
+
+[![GitHub](https://img.shields.io/badge/Open_on-GitHub-181717?style=flat-square&logo=github)](...)
+
+Digital Twin platform transforming heterogeneous IoT sensor streams into a semantic knowledge graph.
+
+The platform combines MQTT, Neo4j, Prometheus and Node-RED to provide real-time observability and analytics over connected devices.
+
+Highlights:
+
+- Digital Twin modelling
+- Knowledge Graph
+- MQTT integration
+- Prometheus metrics
+- Node-RED pipelines
+- Real-time dashboard
+
+Technologies: **Python • Node-RED • Neo4j • MQTT • Prometheus • Angular**
+
+---
+
+## 💼 Professional Experience
+
+- **Software Engineer** — TU Wien (DAMAP)
+- **Student Research Assistant** — TU Wien (OSSDIP)
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Java
+- Python
+- TypeScript
+- SQL
+- Cypher (Neo4j)
+
+### Frameworks
+
+- Quarkus
+- Spring Boot
+- Angular
+- Flask
+
+### Infrastructure & Cloud
+
+- Docker
+- Kubernetes
+- GitLab CI/CD
+- Neo4j
+- Prometheus
+- RabbitMQ
+- NGINX
+- AWS
+
+---
+
+## 🎯 Technical Interests
+
+- Distributed Systems
+- Backend Engineering
+- Software Architecture
+- Cloud-Native Applications
+- Observability
+- Knowledge Graphs
+- Graph Databases
+- Machine Learning for Software Systems
+
+---
+
+## 🌍 Open Source
+
+- **DAMAP** – Machine Actionable Data Management Plans
+- **OSSDIP** – Open Source Secure Data Infrastructure and Processes
+
+---
+
+## 🔗 Links
+
+🌐 **Portfolio:** https://geoffreykarnbach.github.io/
+
+💼 **LinkedIn:** https://linkedin.com/in/geoffrey-karnbach
+
+📄 **Curriculum Vitae:** _(coming soon)_
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to discuss distributed systems, backend engineering, graph technologies, or research software engineering.
