@@ -182,7 +182,7 @@ Technologies: **Python • Node-RED • Neo4j • MQTT • Prometheus • Angula
 
 💼 **LinkedIn:** https://linkedin.com/in/geoffrey-karnbach
 
-📄 **Curriculum Vitae:** _(coming soon)_
+📄 **Curriculum Vitae:** [CV](https://github.com/GeoffreyKarnbach/GeoffreyKarnbach/blob/master/Geoffrey_Karnbach_Resume_2026_public.pdf)
 
 ---
 
