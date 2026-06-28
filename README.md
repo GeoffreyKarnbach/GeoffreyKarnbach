@@ -55,7 +55,7 @@ Technologies: **Angular • Flask • Neo4j • D3.js • APOC • Graph Data Sc
 
 ### 🏨 TaskInn
 
-[![GitHub](https://img.shields.io/badge/Open_on-GitHub-181717?style=flat-square&logo=github)](...)
+[![GitHub](https://img.shields.io/badge/Open_on-GitHub-181717?style=flat-square&logo=github)](https://github.com/GeoffreyKarnbach/TaskInn)
 
 Production-scale hotel management platform developed by a six-person engineering team.
 
