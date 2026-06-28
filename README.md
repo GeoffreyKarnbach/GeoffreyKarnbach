@@ -121,8 +121,8 @@ Technologies: **Python • Node-RED • Neo4j • MQTT • Prometheus • Angula
 
 ## 💼 Professional Experience
 
-- **Software Engineer** — TU Wien (DAMAP)
-- **Student Research Assistant** — TU Wien (OSSDIP)
+- **Software Engineer** — TU Wien (DAMAP) - Aug. 2024 – Jun. 2026
+- **Student Research Assistant** — TU Wien (OSSDIP) - Dec. 2022 – Sept. 2023
 
 ---
 
